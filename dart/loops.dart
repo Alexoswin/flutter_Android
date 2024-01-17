@@ -1,5 +1,10 @@
 import 'dart:io';
 void main(){
+
+    print("-----patterns in dart using loops");
+    
+
+
 print("enter the size of the triangle");
 int size = int.parse(stdin.readLineSync()!);
 
