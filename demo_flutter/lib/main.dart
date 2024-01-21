@@ -18,9 +18,13 @@ class Home extends StatelessWidget {
 
       ),
       body: Center(
-        child: Text("hello world  ${i}"  ),
-
+        child:Image(
+          image: AssetImage('img/Untitled.jpeg'),
+        )
       ),
+
+
+
 
       floatingActionButton: FloatingActionButton(
 
