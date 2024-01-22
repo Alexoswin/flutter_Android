@@ -20,18 +20,18 @@ class MyApp extends StatelessWidget {
         body: Container(
         color: Colors.cyanAccent,
           child: const Center(
-            child: const Text("First flutter application",
-              textAlign: TextAlign.center,
+            heightFactor:5,
+            widthFactor: 100,
+            child: Text("First flutter application",
+              textAlign:   TextAlign.center,
               style:TextStyle(fontSize: 20,color: Colors.redAccent,
                   decoration: TextDecoration.underline ),
               maxLines:1,
             ),
-            heightFactor:5,
-            widthFactor: 100,
+
 
 
           ),
-
 
 
     ),
@@ -39,8 +39,9 @@ class MyApp extends StatelessWidget {
            onPressed: () {
              print("First flutter application");
            },
-           child: const Text("Click"),
             backgroundColor: Colors.yellow,
+           child:  const Text("Click"),
+            shape:,
 
           ),
           bottomNavigationBar:BottomNavigationBar(
