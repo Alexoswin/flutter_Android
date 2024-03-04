@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ed6b2c3-0ed6-4bd7-b8a2-7e077a82610e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXP3_MAD" beforeDir="false" />
+    <list default="true" id="c330e450-ce6f-4796-9424-9ba55a4d7372" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXP3_MAD" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +17,12 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2dEcwIfROIoDg1bWXTUq4eCyftB" />
+  <component name="ProjectId" id="2dEhb8yXGSvi2Z0wc0PrOCowQ80" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,7 +35,6 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/AR M/Desktop/p2/flutter_Android/exnew",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -48,11 +47,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1ed6b2c3-0ed6-4bd7-b8a2-7e077a82610e" name="Changes" comment="" />
-      <created>1709576950332</created>
+      <changelist id="c330e450-ce6f-4796-9424-9ba55a4d7372" name="Changes" comment="" />
+      <created>1709579221650</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1709576950332</updated>
+      <updated>1709579221650</updated>
     </task>
     <servers />
   </component>
